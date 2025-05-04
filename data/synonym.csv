@@ -1,2 +1,7 @@
 selected,abbrevref_id,isolabel_ext,abbrev,insert_date,default_abbrev
 t,5,SV,sv,2025-02-22,f
+t,5,SV-SA,sv;sa,2025-05-03,f
+t,5,SV-SA,sv;acre,2025-05-03,f
+t,5,SV-SA-SantaAna,sv-santaana,2025-05-03,f
+t,5,SV-SA-SantaAna,sv;sa;santa.ana,2025-05-03,f
+t,5,SV-SA-SantaAna,sv;santa.ana;santa.ana,2025-05-03,f

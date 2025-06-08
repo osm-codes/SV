@@ -35,6 +35,10 @@ afaCode_definition:
   log_base: 16h
   log_sep:  ~
   intlevel:
+  example_city_isolabel_ext:
+  example_city_intlevel:
+  example_cities_numbers:
+  raster_delta:
 
 srid_official:
   equalarea:

@@ -2,6 +2,16 @@ selected,abbrevref_id,isolabel_ext,abbrev,insert_date,default_abbrev
 t,5,SV,sv,2025-02-22,f
 t,5,SV-SA,sv;sa,2025-05-03,f
 t,5,SV-SA,sv;santa.ana,2025-05-03,f
-t,5,SV-SA-SantaAna,sv-santaana,2025-05-03,t
+t,5,SV-SA-SantaAna,SV-SA-STA,2025-06-23,t
+t,5,SV-SA-SantaAna,SV-SantaAna,2025-05-03,f
 t,5,SV-SA-SantaAna,sv;sa;santa.ana,2025-05-03,f
 t,5,SV-SA-SantaAna,sv;santa.ana;santa.ana,2025-05-03,f
+t,5,SV-SO,sv;so,2025-06-23,f
+t,5,SV-SO,sv;sonsonate,2025-06-23,f
+t,5,SV-SO-Acajutla,SV-0301,2025-06-23,f
+t,5,SV-SO-Acajutla,SV-301,2025-06-23,f
+t,5,SV-SO-Acajutla,SV-Acajutla,2025-06-23,f
+t,5,SV-SO-Acajutla,SV-SO-ACA,2025-06-23,t
+t,5,SV-SO-Acajutla,sv;so;aca,2025-06-23,t
+t,5,SV-SO-Acajutla,sv;so;acajutla,2025-06-23,f
+t,5,SV-SO-Acajutla,sv;sonsonate;acajutla,2025-06-23,f

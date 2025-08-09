@@ -1,3 +1,3 @@
-isolabel_ext,status,base_intlevel,cover,overlay
-SV-SA-SantaAna,0,,b0G b0Q b1G 68G 68Q 69Q 6aG 6aQ 6bG 6bQ 6eQ,
-SV-SO-Acajutla,0,,54 55 56 57,
+isolabel_ext,status,base_intlevel,cover,overlay,cover_order,overlay_order
+SV-SA-SantaAna,0,,b0G b0Q b1G 68G 68Q 69Q 6aG 6aQ 6bG 6bQ 6eQ,,,
+SV-SO-Acajutla,0,,54 55 56 57,,,
